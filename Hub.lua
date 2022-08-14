@@ -29,7 +29,7 @@ if place == 9964090091 then
     print("Loading Dreaming Simulator 2 GUI")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgod/Emilys-Script/main/Dreaming%20Simulator%202.lua"))() --https://www.roblox.com/games/9577112413/
     
-    elseif place == 9577112413 then
+    elseif place == 7606302010 then
     print("Loading YoYo Simulator GUI")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgod/Emilys-Script/main/YoYo%20Simulator.lua"))() --https://www.roblox.com/games/7606302010/
 end
