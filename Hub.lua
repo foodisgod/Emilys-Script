@@ -32,4 +32,8 @@ if place == 9964090091 then
     elseif place == 7606302010 then
     print("Loading YoYo Simulator GUI")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgod/Emilys-Script/main/YoYo%20Simulator.lua"))() --https://www.roblox.com/games/7606302010/
+    
+    elseif place == 9829869210 then
+    print("Loading Karate Kick Simulator GUI")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/foodisgod/Emilys-Script/main/Karate%20Kick%20Simulator.lua"))() --https://www.roblox.com/games/9829869210/
 end
